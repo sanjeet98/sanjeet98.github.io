@@ -1,2 +1,3 @@
 # sanjeet98.github.io
-My personal website
+This is my personal website using HTML, CSS, JS
+Link: sanjeet98.github.io

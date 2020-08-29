@@ -1,0 +1,29 @@
+<center>Your Feedback🙂
+            </h3>
+            </center>
+            <hr>
+            <center>
+                <form action="backend.php">
+                    <div>
+                        <label for="name"> Name:</label>
+                        <input type="text" name="myName" id="name">
+            </center>
+            </div>
+            <br>
+            <div>
+                <center>
+                    <label for="email">Email:</label>
+                    <input type="email" name="myEmail" id="email"></center>
+            </div>
+            <br>
+            <div>
+                <center>
+                    <label for="Feedback">Your Feedback:</label>
+                    <br> <textarea name="text" id="" cols="50" rows="5"></textarea></center>
+            </div>
+            <br>
+            <center>
+                <button class="btn">Submit</button>
+                <button class="btn">Reset</button>
+                </form>
+            </center>

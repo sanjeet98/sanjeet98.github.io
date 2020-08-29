@@ -1,0 +1,25 @@
+ <i class="fas fa-phone-square"></i>
+                                <a href="+91-6005494041" target="_blank"> +91-6005494041 <br><br></a>
+
+                                <i class="fas fa-envelope"></i>
+                                <a href="kaulsanjeet@gmail.com" target="_blank">&nbsp;&nbsp;Email &nbsp;&nbsp;</a>
+
+
+                                <i class="fab fa-linkedin"></i><a href="https://www.linkedin.com/in/sanjeetkaul"
+                                    target="_blank"> &nbsp;&nbsp; LinkedIn &nbsp;&nbsp; </a>
+
+                                <i class="fab fa-github"></i><a href="https://github.com/sanjeet98"
+                                    target="_blank">&nbsp;&nbsp; GitHub </a> &nbsp;&nbsp;
+
+                                <i class="fab fa-facebook"></i><a href="https://www.facebook.com/sanjeet.kaul.3"
+                                    target="_blank">&nbsp;&nbsp; Facebook</a> &nbsp;&nbsp;
+
+                                <i class="fab fa-instagram"></i><a href="https://instagram.com/masquerade_soul"
+                                    target="_blank">&nbsp;&nbsp; Instagram</a> &nbsp;&nbsp;
+
+                                <i class="fab fa-twitter-square"></i>
+                                <a href="https://twitter.com/KaulSanjeet?s=08" target="_blank">&nbsp;&nbsp; Twitter</a>
+                                &nbsp;&nbsp;
+
+                                <i class="fab fa-whatsapp"></i><a href="https://wa.me/+919897346171"
+                                    target="_blank">&nbsp;&nbsp;WhatsApp</a>
